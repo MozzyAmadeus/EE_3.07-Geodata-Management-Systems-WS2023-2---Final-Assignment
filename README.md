@@ -43,10 +43,10 @@ Database Optimization: In the course of the project, I employed several database
 
 System Execution: To execute the OpenHypE system, I began by accessing the OpenHyPE git repo, where the relevant code is stored. I read and executed the code to get the system up and running. I added layer of nitrate measurments to QGIS from my SQL database.I utilized the QGIS Temporal Controller to produce a video of Nitrate concentration from the earliest available Nitrate measurement in the early 1960s up to the latest measurement.
 
-## 5. Video with Explanations. (20 Points) 
-
-https://drive.google.com/file/d/12h1UMGG-G9YWf9gBFq8mpdl7674PaF03/view?usp=sharing
-
 ## 4. FREE EXERCISE (20 Points)
 
 I created info map of Rheinland area. Added to QGIS map of the NRW. Then I found data about railways, ports, waterways. And implemented this data as to QGIS layers, so it would be visible. In Lables i set names for some of this layers. I tryed to use QGIS Buffer function to analyze, but the circles were to big.
+
+## 5. Video with Explanations. (20 Points) 
+
+https://drive.google.com/file/d/12h1UMGG-G9YWf9gBFq8mpdl7674PaF03/view?usp=sharing
